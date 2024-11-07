@@ -35,6 +35,7 @@ public class Etudiant implements Serializable{
     public Etudiant() {
         // TODO Auto-generated constructor stub
     }
+    //dsjdjqsdjsqd
 
     public Etudiant(String nomE, String prenomE) {
         this.nomE = nomE;
